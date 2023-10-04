@@ -1,1 +1,1 @@
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemaker2015&layout=compact&theme=blue-green)
+<img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=akash4Tech&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical" alt="Akash github stats" />
